@@ -31,15 +31,15 @@
               "displayName": "Checkbox Group",
               "iconSVG": "/static/media/icon.ecb3847950c4515966ef642a32758afb.svg",
               "labelText": "Label",
-              "topRow": 4,
-              "bottomRow": 10,
+              "topRow": 8,
+              "bottomRow": 14,
               "parentRowSpace": 10,
               "labelWidth": 5,
               "type": "CHECKBOX_GROUP_WIDGET",
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 16.3125,
-              "leftColumn": 22,
+              "leftColumn": 12,
               "dynamicBindingPathList": [
                 {
                   "key": "accentColor"
@@ -68,7 +68,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 45,
+              "rightColumn": 35,
               "defaultSelectedValues": "BLUE",
               "widgetId": "r03xq2wnx3",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
